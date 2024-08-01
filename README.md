@@ -2,6 +2,7 @@
 
 **Internee Task Manager and Evaluator** is an innovative application designed to streamline the task management and evaluation process for university students, particularly those studying AI, backend, and frontend development. This app leverages the powerful LLaMA 3.1 model to generate and evaluate tasks, providing an automated solution for busy managers and effective learning opportunities for interns.
 
+you an click on the link to run the application  [here](https://internee-task-manager-and-evaluator.streamlit.app/)
 ## Features
 
 - **Automated Task Generation**: Generate tasks tailored to the intern's field of expertise (AI, Backend, Frontend) and current semester.
